@@ -50,4 +50,8 @@ Home Work 6 - Cucumber Testing Swag Labs
 </dependencies>
 ```
 
+## Report 
+![SS Report Homework 6](https://github.com/Indrawan-hu/Rakamin-HW6-Cucumber/assets/22406490/7d042768-9ad7-4737-832c-21ce3a01819f)
+
+
       
