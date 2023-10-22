@@ -1,6 +1,9 @@
 # Rakamin-HW6-Cucumber
 Home Work 6 - Cucumber Testing Swag Labs
 
+## IDE
+<img src='https://www.dicoding.com/blog/wp-content/uploads/2019/05/intellij-519-d4ff21c469.png' width='150'>
+
 ## Java Development Version
   ```
   <properties>
